@@ -1,0 +1,22 @@
+100
+-intro java course
+-seats are available
+110
+-teaches operating systems
+-seats are available
+200
+-basic english course
+-seats are available
+210
+-american history
+-seats are available
+220
+-intro to criminal justice
+-seats are available
+300
+-calculus I
+-seats are available
+310
+-fundamentals of linear algebra
+-seats are available
+999

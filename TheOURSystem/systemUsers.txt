@@ -1,0 +1,10 @@
+JohnSmith,pass,student
+JaneDoe,pass,student
+LarryStingy,pass,student
+Advisor,pass,department
+SecondAdvisor,pass,department
+DrProfessor,pass,instructor
+MrProfessor,pass,instructor
+OtherProfessor,pass,instructor
+
+

@@ -1,0 +1,13 @@
+JohnSmith
+Paid:1
+Schedule:
+300
+310
+110
+100
+
+
+
+
+
+
